@@ -199,7 +199,7 @@ Kobe/
 #### Quick Run in Xcode:
 1. Clone the repository:
    ```bash
-   git clone <repo-url> Kobe
+   git clone https://github.com/david950520/Kobe.git
    cd Kobe
    ```
 2. Open `Kobe.xcodeproj` in Xcode:
@@ -395,7 +395,7 @@ Kobe/
 #### 在 Xcode 中開啟與執行：
 1. 複製專案至本機：
    ```bash
-   git clone <repo-url> Kobe
+   git clone https://github.com/david950520/Kobe.git
    cd Kobe
    ```
 2. 開啟 Xcode 專案：
